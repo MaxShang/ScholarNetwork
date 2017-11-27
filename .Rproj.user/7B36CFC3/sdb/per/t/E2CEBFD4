@@ -1,14 +1,14 @@
 {
     "collab_server" : "",
-    "contents" : "# ScholarNetwork\nThis is a shiny app designed to visualize the network of scholars based on data from Google Scholar. \nThe app is based on Pablo Barberá's great work that you can find at <https://github.com/pablobarbera/scholarnetwork>\n\n# Example output\nIf you enter Professor Alan Ker's Goolge Scholar page <https://scholar.google.ca/citations?user=z-FBV_MAAAAJ&hl=en&oi=ao>, \nthe output would be \n![Scholar Network of A Ker.](aker.png).\n\nYou can check any scholar's newtwork as long as she is on Google Scholar. If you have any comments or suggestions, feel free to email me at zshang@uoguelph.ca",
+    "contents" : "# ScholarNetwork\nThis is a shiny app designed to visualize the network of scholars based on data from Google Scholar. \nThe app is based on Pablo Barberá's great work that you can find at <https://github.com/pablobarbera/scholarnetwork>\n\n# Example output\nIf you enter Professor Alan Ker's Goolge Scholar page <https://scholar.google.ca/citations?user=z-FBV_MAAAAJ&hl=en&oi=ao>, \nthe output would be \n![Scholar Network of A Ker.](https://github.com/MaxShang/ScholarNetwork/blob/master/aker.PNG).\n\nYou can check any scholar's newtwork as long as she is on Google Scholar. If you have any comments or suggestions, feel free to email me at zshang@uoguelph.ca",
     "created" : 1511794452535.000,
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "57304145",
+    "hash" : "2659759838",
     "id" : "E2CEBFD4",
-    "lastKnownWriteTime" : 1511796663,
-    "last_content_update" : 1511796663545,
+    "lastKnownWriteTime" : 1511796963,
+    "last_content_update" : 1511796963,
     "path" : "~/GitHub/ScholarNetworkApp/README.md",
     "project_path" : "README.md",
     "properties" : {
